@@ -10,7 +10,7 @@
   width: 53px;
   height: 53px;
   color: #ffffff;
-  background: #22107D;
+  background: $gray;
   margin-right: -15px;
 }
 
@@ -60,7 +60,7 @@
 }
 
 .prereq .callout-square {
-  background: #22107D;
+  background: $gray;
 }
 
 /* Keypoints */
@@ -81,7 +81,7 @@
 }
 
 .checklist .callout-square {
-  background: #22107D;
+  background: $gray;
   color: #ffffff;
 }
 
@@ -114,7 +114,7 @@
 }
 
 .challenge .callout-square {
-  background: #22107D;
+  background: $gray;
   color: $black;
 }
 
