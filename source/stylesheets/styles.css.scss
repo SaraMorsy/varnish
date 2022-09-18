@@ -80,6 +80,15 @@ h1 {
   color: $black;
 }
 
+h1.maintitle a {
+    color: #023452;
+    font-size: 58px;
+    font-weight: 900;
+  }
+ .maintitle a {
+    color: #023452;
+  }
+
 h2 {
   font-size: calc(1.55rem + 0.9vw);
   font-weight: 600;
