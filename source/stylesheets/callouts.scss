@@ -60,7 +60,7 @@
 }
 
 .prereq .callout-square {
-  background: $gray;
+  background: $blue;
 }
 
 /* Keypoints */
@@ -70,7 +70,7 @@
 }
 
 .keypoints .callout-square {
-  background: $teal;
+  background: $blue;
   color: $black;
 }
 
@@ -81,7 +81,7 @@
 }
 
 .checklist .callout-square {
-  background: $gray;
+  background: $blue;
   color: #ffffff;
 }
 
@@ -92,7 +92,7 @@
 }
 
 .testimonial .callout-square {
-  background: $gray;
+  background: $blue;
   color: #ffffff;
 }
 
@@ -103,7 +103,7 @@
 }
 
 .discussion .callout-square {
-  background: $gray;
+  background: $blue;
   color: $black;
 }
 
@@ -123,7 +123,7 @@
 .challenge-accordion {
   margin: -25px 0 25px 0;
   .accordion-button {
-    background: #22107D;
+    background: $blue;
     height: 43px;
     padding-left: 25px;
     color: $black;
