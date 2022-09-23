@@ -1,7 +1,7 @@
 /* Basic (gray callout) */
 
 .callout {
-  border-left: 10px solid $blue;
+  border-left: 10px solid $bright-blue;
   margin-bottom: 25px;
 }
 
@@ -10,7 +10,7 @@
   width: 53px;
   height: 53px;
   color: #ffffff;
-  background: $blue;
+  background: $bright-blue;
   margin-right: -15px;
 }
 
@@ -56,65 +56,65 @@
 /* Prereq */
 
 .prereq {
-  border-left: 10px solid $blue;
+  border-left: 10px solid $bright-blue;
 }
 
 .prereq .callout-square {
-  background: $blue;
+  background: $bright-blue;
 }
 
 /* Keypoints */
 
 .keypoints {
-  border-left: 10px solid $blue;
+  border-left: 10px solid $bright-blue;
 }
 
 .keypoints .callout-square {
-  background: $blue;
+  background: $bright-blue;
   color: $black;
 }
 
 /* Checklist */
 
 .checklist {
-  border-left: 10px solid $blue
+  border-left: 10px solid $bright-blue
 }
 
 .checklist .callout-square {
-  background: $blue;
+  background: $bright-blue;
   color: #ffffff;
 }
 
 /* Testimonial */
 
 .testimonial {
-  border-left: 10px solid $blue
+  border-left: 10px solid $bright-blue
 }
 
 .testimonial .callout-square {
-  background: $blue;
+  background: $bright-blue;
   color: #ffffff;
 }
 
 /* Discussion */
 
 .discussion {
-  border-left: 10px solid $blue
+  border-left: 10px solid $bright-blue
 }
 
 .discussion .callout-square {
-  background: $blue;
+  background: $bright-blue;
   color: $black;
 }
 
 /* Challenge */
 
 .challenge {
-  border-left: 10px solid $blue
+  border-left: 10px solid $bright-blue
 }
 
 .challenge .callout-square {
-  background: $blue;
+  background: $bright-blue;
   color: $black;
 }
 
@@ -123,7 +123,7 @@
 .challenge-accordion {
   margin: -25px 0 25px 0;
   .accordion-button {
-    background: $blue;
+    background: $bright-blue;
     height: 43px;
     padding-left: 25px;
     color: $black;
