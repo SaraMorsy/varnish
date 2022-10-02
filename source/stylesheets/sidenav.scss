@@ -9,12 +9,12 @@
   left: 0px;
   right: 0px;
   z-index: 2;
-  color: $black;
+  color: $tess-blue;
   font-size: 18px;
   a {
     color: $black;
     &:hover {
-      color: $blue;
+      color: $tess-orange;
     }
     &:focus {
       outline: 4px solid rgba(13, 110, 253, 0.25);
