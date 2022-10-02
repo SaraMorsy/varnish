@@ -67,14 +67,14 @@
 }
 
 * {
-  font-family: 'Mulish', sans serif;
+  font-family: 'lato', sans serif;
   font-weight: $font_weight_normal;
 }
 
 h1 {
   font-size: calc(2rem + 1.5vw);
   font-weight: 700;
-  font-style: normal;
+  font-style: bold;
   line-height: 55px;
   letter-spacing: 0.01em;
   color: $black;
@@ -94,14 +94,14 @@ h2 {
   font-weight: 600;
   line-height: 40px;
   letter-spacing: 0.05em;
-  font-style: normal;
+  font-style: bold;
   color: $black;
 }
 
 h3 {
   font-size:  calc(1.25rem + 0.5vw);
   font-weight: 400;
-  font-style: normal;
+  font-style: bold;
   font-weight: 400;
   line-height: 31px;
   letter-spacing: 0.01em;
@@ -111,7 +111,7 @@ h3 {
 h4 {
   font-size:  calc(1.15rem + 0.3vw);
   font-weight: 400;
-  font-style: normal;
+  font-style: bold;
   font-weight: 400;
   line-height: 31px;
   letter-spacing: 0.01em;
